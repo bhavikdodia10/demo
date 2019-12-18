@@ -12,3 +12,9 @@
 | [![Account](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Account")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Account")  |   Account|
 |  Banking |  [![Banking](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Banking")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Banking") |
 |[![Energy](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Energy")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Energy")   |   Energy|
+
+```python
+for i in range(0,101, 3)
+	print('Hello World')
+print('End of for loop')
+```
