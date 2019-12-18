@@ -1,12 +1,14 @@
-# demo
-This is my first repo
+# My Repo for latest project at INSAID
 
-- Point 1
-- Point 2
+## Here is list of all projects
 
-___
+- [Finance](https://github.com/bhavikdodia10/demo/tree/master/finance-project "Finance")
+- Accounts
+- Banking
+- Energy
 
-```
-print('Hello World!!')
-
-```
+| Finance Project  | [![Finance](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Finance")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Finance")  |
+| :------------: | :------------: |
+| [![Account](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Account")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Account")  |   Account|
+|  Banking |  [![Banking](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Banking")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Banking") |
+|[![Energy](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Energy")](https://raw.githubusercontent.com/bhavikdodia10/demo/master/images/ML.jpg "Energy")   |   Energy|
